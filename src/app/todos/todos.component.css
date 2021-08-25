@@ -1,0 +1,6 @@
+.todos_list{
+    border: solid green;
+}
+ul{
+    list-style-type: none;
+}
